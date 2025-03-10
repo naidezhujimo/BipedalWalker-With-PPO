@@ -88,7 +88,4 @@ The training progress is visualized using TensorBoard and a plot of the training
 => Best test!! Reward:280.50  Steps:500
 ```
 
-### Reward Convergence Plot
-
-![Reward Convergence](training_plots/reward_curve.png)
-
+The visualisation data is available in folders.
